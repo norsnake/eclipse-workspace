@@ -1,4 +1,4 @@
-println£¨¡°hello world");
+println(¡°hello world");
 
-main£¨£©£»
+main()£»
 modified by liuzhe
